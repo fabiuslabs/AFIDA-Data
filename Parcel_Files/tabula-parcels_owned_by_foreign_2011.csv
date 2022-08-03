@@ -1,0 +1,181 @@
+Country,Number of Investors,Number of Parcels,Total Acres,"Total Value ($1,000)"
+Argentina,41,47,"17,197","52,923"
+Australia,30,42,"67,817","133,540"
+Austria,61,117,"152,775","106,899"
+Bahamas,36,50,"54,177","73,372"
+Belgium,97,139,"124,376","53,939"
+Belize,5,8,573,226
+Bermuda,46,55,"28,960","40,631"
+Bolivia,2,2,11,47
+Brazil,12,22,"11,295","8,860"
+Cambodia,1,1,31,80
+Canada,"1,476","2,175","4,910,961","5,381,105"
+Cayman Islands,38,44,"31,504","57,669"
+Channel Islands,5,11,"4,458","56,868"
+Chile,7,11,"2,097","7,366"
+China,67,75,"13,720","81,425"
+Colombia,40,54,"11,990","23,228"
+Cook Islands,12,18,"3,303","10,881"
+Costa Rica,8,10,"13,835","12,212"
+Cote D'ivoire,1,1,119,100
+Croatia,1,1,160,115
+Cuba,3,4,58,"1,374"
+Cyprus,1,2,516,"3,744"
+Czech Republic,2,2,347,27
+Denmark,42,177,"541,389","1,133,712"
+Dominican Republic,3,3,29,128
+Ecuador,19,25,481,"6,334"
+Egypt,16,17,"1,540","7,296"
+El Salvador,5,5,406,"1,495"
+Finland,1,1,80,119
+France,156,310,"426,175","553,560"
+Gambia,1,1,294,118
+Germany,"1,066","1,975","921,646","2,271,396"
+Gibraltar,3,4,678,"5,118"
+Greece,16,22,"61,882","15,573"
+Guatemala,12,13,"1,233","3,674"
+Guyana,1,1,35,180
+Honduras,12,12,"1,018","6,462"
+Hong Kong,60,79,"10,164","46,544"
+Hungary,1,1,103,80
+India,17,19,"2,040","6,569"
+Indonesia,2,2,718,655
+Iran (Islamic Republic Of),22,25,"2,463","6,906"
+Ireland,28,230,"53,945","88,377"
+Israel,10,13,"2,097","12,632"
+Italy,126,"3,679","1,133,708","3,123,594"
+Jamaica,4,4,567,470
+Japan,137,210,"281,204","811,777"
+Jordan,18,23,"1,947","15,481"
+Kenya,1,1,91,256
+"Korea, D.P.R.O.",6,6,469,"1,890"
+"Korea, Republic of",22,22,"2,373","12,592"
+Kuwait,10,15,"19,823","11,888"
+Laos,1,1,31,208
+Lebanon,30,39,"10,449","18,727"
+Liberia,13,15,"8,985","8,426"
+Liechtenstein,106,169,"119,453","242,300"
+Lithuania,1,1,27,32
+Luxembourg,11,24,"45,978","73,077"
+Malaysia,5,10,"8,277","14,748"
+Mexico,251,332,"258,677","166,283"
+Morocco,1,4,875,"9,745"
+Namibia,1,2,106,703
+Nepal,2,6,"5,357","3,354"
+Netherlands,691,"1,270","4,399,457","5,751,517"
+New Zealand,14,60,"33,977","1,627,788"
+Nicaragua,3,4,"1,378","3,174"
+Norway,18,18,"5,229","5,324"
+Oman,2,5,454,"2,478"
+Pakistan,9,12,"1,677","2,222"
+Panama,112,140,"109,297","167,210"
+Peru,20,21,388,"1,426"
+Philippines,31,40,"3,760","7,262"
+Poland,3,3,305,615
+Portugal,82,607,"1,247,478","1,800,691"
+Russian Federation,5,8,834,"3,036"
+Saint Vincent and the Grenadines,2,4,"2,637","4,056"
+Saudi Arabia,42,54,"18,347","162,623"
+Singapore,5,5,626,"5,505"
+Somalia,1,1,11,28
+South Africa,12,14,"2,251","8,464"
+Spain,52,162,"184,580","226,501"
+Sweden,38,59,"61,500","60,488"
+Switzerland,366,516,"288,173","311,156"
+Syrian Arab Republic,6,7,"2,574","4,147"
+"Tanzania, United Republic of",1,1,59,649
+Thailand,8,10,"1,785","12,604"
+Trinidad and Tobago,3,3,94,371
+Turkey,1,1,38,145
+Turks and Caicos Islands,9,13,"3,292","3,283"
+United Arab Emirates,12,41,"6,679","366,428"
+United Kingdom,290,575,"644,046","698,376"
+United States,1,1,510,"2,500"
+Uruguay,6,9,"13,547","30,385"
+Venezuela,98,162,"24,071","88,228"
+Viet Nam,1,1,152,930
+Virgin Islands (British),42,70,"70,302","92,000"
+Zimbabwe,1,1,230,80
+998 ‐ No Foreign Investor Listed,11,15,"5,098","29,582"
+999 ‐ No Predominant Country Code,62,107,"160,510","219,137"
+Subtotal 2/,"6,291","14,409","16,672,439","26,489,519"
+US/Andorra,1,1,"3,741","1,300"
+US/Argentina,5,11,"3,060","3,054"
+US/Australia,25,51,"44,496","112,579"
+US/Austria,21,110,"23,067","31,421"
+US/Bahamas,19,43,"42,050","79,383"
+US/Barbados,1,2,82,739
+US/Belgium,33,223,"113,385","100,604"
+US/Belize,1,2,252,660
+US/Bermuda,19,53,"15,469","13,905"
+US/Brazil,7,64,"15,772","26,846"
+US/Canada,357,"1,489","2,339,873","2,944,347"
+US/Cayman Islands,14,30,"34,020","50,924"
+US/Channel Islands,3,11,"1,910","11,814"
+US/Chile,2,4,"9,948","1,374"
+US/China,61,83,"55,575","80,700"
+US/Colombia,16,32,"27,575","55,464"
+US/Costa Rica,4,4,"1,092","7,246"
+US/Denmark,20,69,"457,808","471,056"
+US/Dominican Republic,1,1,589,825
+US/Ecuador,4,4,"2,082","3,335"
+US/Egypt,6,19,"3,061","5,913"
+US/El Salvador,2,2,52,638
+US/Finland,8,114,"209,629","24,286"
+US/France,145,876,"611,850","758,615"
+US/Germany,259,"1,050","812,044","982,907"
+US/Greece,4,5,"5,664","66,530"
+US/Guatemala,2,3,412,"1,018"
+US/Guyana,1,2,334,284
+US/Honduras,1,1,37,825
+US/Hong Kong,20,25,"130,694","42,952"
+US/India,3,8,"1,820","5,455"
+US/Indonesia,22,83,"11,784","157,603"
+US/Iran (Islamic Republic Of),5,6,"1,861","5,509"
+US/Iraq,1,1,800,560
+US/Ireland,20,110,"672,758","288,844"
+US/Israel,4,5,505,"12,225"
+US/Italy,38,75,"90,074","92,519"
+US/Japan,235,427,"351,893","2,068,294"
+US/Jordan,2,2,284,"6,500"
+US/Kenya,1,1,32,360
+"US/Korea, Republic of",6,7,677,"10,925"
+US/Kuwait,6,12,"7,558","11,994"
+US/Lebanon,4,5,411,"1,451"
+US/Liberia,14,17,"45,683","16,815"
+US/Libyan Arab Jamahiriya,2,3,280,"2,500"
+US/Liechtenstein,51,85,"70,007","101,991"
+US/Luxembourg,27,40,"90,166","54,234"
+US/Malaysia,3,7,"5,775","10,248"
+US/Malta,1,1,500,750
+US/Mexico,62,134,"403,614","966,976"
+US/Netherlands,209,486,"479,139","718,488"
+US/New Zealand,3,4,"49,403","4,026"
+US/Nicaragua,1,2,282,397
+US/Norway,7,45,"12,950","35,728"
+US/Pakistan,1,1,423,485
+US/Panama,52,68,"50,041","70,647"
+US/Paraguay,1,1,236,270
+US/Peru,1,1,100,280
+US/Philippines,10,11,"6,863","3,692"
+US/Portugal,2,3,"6,733","3,269"
+US/Qatar,1,1,219,"2,180"
+US/Saudi Arabia,28,58,"16,979","103,777"
+US/Singapore,4,11,"97,037","91,900"
+US/South Africa,8,17,"13,728","87,496"
+US/Spain,26,102,"39,717","46,116"
+US/Sweden,14,38,"24,178","921,679"
+US/Switzerland,206,475,"365,768","370,231"
+US/Thailand,3,6,"2,486","5,966"
+US/Trinidad and Tobago,1,1,20,200
+US/Turkey,1,3,753,752
+US/United Arab Emirates,3,8,"3,458","14,870"
+US/United Kingdom,257,817,"1,000,894","1,218,559"
+US/Uruguay,2,2,655,960
+US/Vanuatu,1,1,883,"1,790"
+US/Venezuela,38,57,"61,560","65,024"
+US/Virgin Islands (British),16,35,"283,362","51,554"
+US/998 ‐ No Foreign Investor Listed,15,33,"173,583","99,002"
+US/999 ‐ No Predominant Country Code,58,110,"254,259","181,577"
+Subtotal 3/,"2,538","7,810","9,667,814","13,798,212"
+Total All Landholdings,"8,829","22,219","26,340,253","40,287,731"
